@@ -1,0 +1,6 @@
+tmp/*
+pre-process/**/*.npy
+pre-process/grayscales/*
+pre-process/hogs/*
+pre-process/lbps/*
+pre-process/data/*

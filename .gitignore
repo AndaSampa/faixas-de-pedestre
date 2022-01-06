@@ -4,3 +4,4 @@ pre-process/grayscales/*
 pre-process/hogs/*
 pre-process/lbps/*
 pre-process/data/*
+resultados/modelos-treinados/random-forest-faixas-pedestre.pkl

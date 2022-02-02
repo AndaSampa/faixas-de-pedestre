@@ -6,3 +6,6 @@ pre-process/sobel/*
 pre-process/lbps/*
 pre-process/data/*
 resultados/modelos-treinados/random-forest-faixas-pedestre.pkl
+downloads/full
+downloads/full_unzipped
+resultados/modelos-treinados

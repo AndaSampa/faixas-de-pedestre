@@ -1,0 +1,51 @@
+1643659192529	geckodriver	INFO	Listening on 127.0.0.1:47241
+1643659192536	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51143" "-no-remote" "-profile" "/tmp/rust_mozprofileaS6MkA"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643659193397	Marionette	INFO	Marionette enabled
+ExceptionHandler::GenerateDump cloned child 27326
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+1643659385885	geckodriver	INFO	Listening on 127.0.0.1:36145
+1643659385888	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57209" "-no-remote" "-profile" "/tmp/rust_mozprofilevtdTLg"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643659386698	Marionette	INFO	Marionette enabled
+ExceptionHandler::GenerateDump cloned child 29217
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+1643659680752	geckodriver	INFO	Listening on 127.0.0.1:37727
+1643659680757	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54299" "-no-remote" "-profile" "/tmp/rust_mozprofileCVWul4"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643659681603	Marionette	INFO	Marionette enabled
+ExceptionHandler::GenerateDump cloned child 30939
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+Invalid port. Exiting...
+1643660312605	geckodriver	INFO	Listening on 127.0.0.1:60849
+1643660312610	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56363" "-no-remote" "-profile" "/tmp/rust_mozprofileVAxZyK"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643660313413	Marionette	INFO	Marionette enabled
+ExceptionHandler::GenerateDump cloned child 33878
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+1643661721957	geckodriver	INFO	Listening on 127.0.0.1:53609
+1643661722461	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55553" "-no-remote" "-profile" "/tmp/rust_mozprofile5Lsk5y"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643661723280	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ExceptionHandler::GenerateDump cloned child 7988
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
